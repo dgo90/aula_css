@@ -1,0 +1,16 @@
+body{
+    background: rgb(238, 23  , 80)
+}
+h2, h3, h4, p{
+    font-size: 35px;
+    font-family: 'segoe ui';
+    color: rgb(42, 0, 135)
+}
+p.formato{
+    color: black;
+    font-size: 15px;
+    font-family: 'Courier New';
+}
+.centro{
+    text-align: center;
+}
